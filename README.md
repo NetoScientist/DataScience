@@ -1,3 +1,3 @@
 # DataSience
 
-Olá aqui é estudo sobre data science 
+Olá aqui é estudo sobre Data Science
